@@ -18,7 +18,7 @@ The objective is to analyze book sales, customer purchasing behavior, revenue, a
 * Customers
 * Orders
 
-📊 Basic SQL Analysis
+📊 SQL Analysis
 
 1. Retrieve all books in the Fiction genre
 2. Find books published after 1950
