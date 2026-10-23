@@ -77,6 +77,6 @@ The objective is to analyze book sales, customer purchasing behavior, revenue, a
 
 👨‍💻 Author
 
-Harman Jeet Singh
+Harmanjeet Singh
 
 Aspiring Data Analyst | SQL | Excel | Data Analysis
